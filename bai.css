@@ -1,0 +1,46 @@
+.color-red {
+    color:red
+}
+
+#color-blue{
+    color:green;
+}
+
+.noidung1{
+    background-color:green;
+    
+    width: 200px;
+    height: 100px;
+}
+
+.background2{
+    background-image: url(khoa-hoc-front-end.jpg) ;
+    background-attachment: fixed;
+    background-size: 100%  ;
+    width: 100%;
+    height: 200px;
+}
+
+.backgr3{
+    background-color:  green  ;
+    color:white; 
+    text-align: center;
+    padding: 30px ;
+    border: 5px solid #000 ; 
+    margin: 20px;
+}
+
+
+.backgr2{
+    background-color: red  ;
+    color:white; 
+    text-align: right ;
+    padding: 30px ;
+    border: 5px dashed   gray ; 
+    margin: 20px;
+}
+
+.pp1{
+    font-family: Arial; 
+    font-size: 30px ; 
+}
